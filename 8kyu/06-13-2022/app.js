@@ -9,7 +9,7 @@ function isDivisible(n, x, y) {
     }
   }
 
-  // Better solution
+// Better solution
 //   function isDivisible(n, x, y) {
 //     return (n % x === 0 && n % y === 0) ? true : false;
 //   }
